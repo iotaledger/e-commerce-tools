@@ -51,7 +51,7 @@
     "bs58": "^4.0.1",
     "date-fns": "^2.17.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-json-validator-middleware": "^2.1.1",
     "express-winston": "^4.2.0",
     "http-status-codes": "^2.1.4",
